@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/paper-passion/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/paper-passion/static/js/main.f5650ecd.chunk.js",
+    "main.js.map": "/paper-passion/static/js/main.f5650ecd.chunk.js.map",
+    "runtime-main.js": "/paper-passion/static/js/runtime-main.1ddfd060.js",
+    "runtime-main.js.map": "/paper-passion/static/js/runtime-main.1ddfd060.js.map",
+    "static/js/2.5e54b717.chunk.js": "/paper-passion/static/js/2.5e54b717.chunk.js",
+    "static/js/2.5e54b717.chunk.js.map": "/paper-passion/static/js/2.5e54b717.chunk.js.map",
+    "static/js/3.5a84b37a.chunk.js": "/paper-passion/static/js/3.5a84b37a.chunk.js",
+    "static/js/3.5a84b37a.chunk.js.map": "/paper-passion/static/js/3.5a84b37a.chunk.js.map",
+    "index.html": "/paper-passion/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/paper-passion/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.5e54b717.chunk.js.LICENSE.txt": "/paper-passion/static/js/2.5e54b717.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/paper-passion/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ddfd060.js",
+    "static/js/2.5e54b717.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.f5650ecd.chunk.js"
+  ]
+}
